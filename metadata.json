@@ -1,0 +1,6 @@
+{
+  "name": "Endless Temple Runner",
+  "description": "An action-packed 3D-perspective endless corridor runner with lanes, obstacles, coin collection, and upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
